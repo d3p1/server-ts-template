@@ -1,0 +1,6 @@
+{
+  "clearMocks": true,
+  "testEnvironment": "node",
+  "roots": ["<rootDir>/src"],
+  "preset": "ts-jest/presets/default-esm"
+}
