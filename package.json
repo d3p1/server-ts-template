@@ -1,6 +1,6 @@
 {
   "name": "@d3p1/server-ts-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A template to build things using TypeScript on the server",
   "private": true,
   "type": "module",
