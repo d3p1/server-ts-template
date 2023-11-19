@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/d3p1/server-ts-template/compare/v1.0.1...v1.0.2) (2023-11-19)
+
+
+### Bug Fixes
+
+* improve eslint configuration [[#1](https://github.com/d3p1/server-ts-template/issues/1)] ([075edba](https://github.com/d3p1/server-ts-template/commit/075edbaef492ea915193f868836d154c1397572b))
+
 ## [1.0.1](https://github.com/d3p1/server-ts-template/compare/v1.0.0...v1.0.1) (2023-10-19)
 
 
